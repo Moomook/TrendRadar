@@ -9,8 +9,9 @@ advantest
 Accotest
 
 台积电
-中兴通信
+中兴
 中芯国际
+华为
 
 龙芯
 海光
@@ -29,14 +30,8 @@ xiaomi
 
 英伟达
 NVIDIA
-黄仁勋
 
 AMD
-
-谷歌
-google
-gemini
-deepmind
 
 chatgpt
 openai
@@ -45,27 +40,9 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
-人工智能
-
-自动驾驶
-
 机器人
 
 芯片
 光刻机
 
 新质生产力
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
